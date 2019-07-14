@@ -4,12 +4,9 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
 
-## TL;DR
-
-To get started developing right away:
-
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
+## How To Run This Project
+* Firstly:go to the root index of this project,run "npm install"
+* Secondly: run "npm start", you can run this project
 
 ## What You're Getting
 ```bash
@@ -90,3 +87,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
